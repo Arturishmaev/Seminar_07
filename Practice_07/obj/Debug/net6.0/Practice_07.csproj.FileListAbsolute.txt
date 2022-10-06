@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Seminar07\Practice_07\bin\Debug\net6.0\Practice_07.exe
+C:\Users\User\Desktop\Seminar07\Practice_07\bin\Debug\net6.0\Practice_07.deps.json
+C:\Users\User\Desktop\Seminar07\Practice_07\bin\Debug\net6.0\Practice_07.runtimeconfig.json
+C:\Users\User\Desktop\Seminar07\Practice_07\bin\Debug\net6.0\Practice_07.dll
+C:\Users\User\Desktop\Seminar07\Practice_07\bin\Debug\net6.0\Practice_07.pdb
+C:\Users\User\Desktop\Seminar07\Practice_07\obj\Debug\net6.0\Practice_07.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Seminar07\Practice_07\obj\Debug\net6.0\Practice_07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Seminar07\Practice_07\obj\Debug\net6.0\Practice_07.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Seminar07\Practice_07\obj\Debug\net6.0\Practice_07.AssemblyInfo.cs
+C:\Users\User\Desktop\Seminar07\Practice_07\obj\Debug\net6.0\Practice_07.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Seminar07\Practice_07\obj\Debug\net6.0\Practice_07.dll
+C:\Users\User\Desktop\Seminar07\Practice_07\obj\Debug\net6.0\refint\Practice_07.dll
+C:\Users\User\Desktop\Seminar07\Practice_07\obj\Debug\net6.0\Practice_07.pdb
+C:\Users\User\Desktop\Seminar07\Practice_07\obj\Debug\net6.0\Practice_07.genruntimeconfig.cache
+C:\Users\User\Desktop\Seminar07\Practice_07\obj\Debug\net6.0\ref\Practice_07.dll
